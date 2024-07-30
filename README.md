@@ -1,2 +1,2 @@
-# equipo-coje-codigos
+# equipo-detona-codigos
 aca detonamos codigos
